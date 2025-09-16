@@ -12,4 +12,5 @@ Examples:
 > Pkg.add("ITensors")
 > 
 > Pkg.add("ITensorMPS")
-...
+> 
+> Pkg.add("...")
