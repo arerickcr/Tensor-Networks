@@ -1,6 +1,6 @@
 # This code implements DMRG for the transverse field Ising model with Hamiltonian:
 # H = -hxx * sum_n(X_{n} * X_{n+1}) - hz * sum_n(Z_n)
-# where J is the coupling strength and h is the transverse field.
+# where J is the coupling strength and hz is the transverse magnetic field.
 
 using ITensors, ITensorMPS
 using ITensors.Strided
