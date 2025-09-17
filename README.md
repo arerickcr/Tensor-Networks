@@ -1,4 +1,4 @@
-# Tensor-Networks
+# Tensor Networks examples
 
 Some projects that use Tensor Networks in Julia.
 
