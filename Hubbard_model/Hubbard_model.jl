@@ -1,5 +1,4 @@
-# This code implements DMRG for the Hubbard model with NN and NNN interactions. 
-
+# This code implements DMRG for the Hubbard model with NN and NNN interactions in its fermionic representation.
 
 using ITensors, ITensorMPS
 using LinearAlgebra
