@@ -83,6 +83,6 @@ Each example is self-contained in its respective file or folder. After installin
 
 If you’re new to tensor networks in Julia, ITensors.jl, or ITensorMPS.jl, check out:
 
-- [ITensor webpage] (https://itensor.org/)
+- [ITensor webpage](https://itensor.org/)
 - [ITensors.jl documentation](https://itensor.github.io/ITensors.jl/stable/)
 - [ITensorMPS.jl documentation](https://docs.itensor.org/ITensorMPS/stable/)
