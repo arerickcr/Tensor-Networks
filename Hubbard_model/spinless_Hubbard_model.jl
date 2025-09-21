@@ -144,7 +144,6 @@ let
 L = 6       # number of sites
 Nf = 4      # number of particles
 spin = 0    # Total Sz of the system
-k = 0       # k=0 for OBC or k=1 for PBC 
 t1 = 1      # nn hopping coupling
 t2 = -0.5      # nnn hopping coupling
 U = 10       # repulsion coupling
