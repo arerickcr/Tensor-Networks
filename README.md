@@ -52,7 +52,7 @@ This repository contains code for simulating the following models:
 **Hamiltonian:**
 
 
-   $$\displaystyle H = -h_{xx}\sum_{n=0}^{N-2}X_{n}X_{n+1} - h_{z} \sum_{n=0}^{N-1}Z_{n} - +ih_{x} \sum_{n=0}^{N-1}X_{n}$$ 
+   $$\displaystyle H = -h_{xx}\sum_{n=0}^{N-2}X_{n}X_{n+1} - h_{z} \sum_{n=0}^{N-1}Z_{n} - ih_{x} \sum_{n=0}^{N-1}X_{n}$$ 
    
 
 ### 3. Hubbard model with next-nearest neighbors
